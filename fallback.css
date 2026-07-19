@@ -3,6 +3,7 @@
 body {
     max-width: 600px;
     margin: auto;
+    padding: 15px;
     font-family: Nunito;
     background-color: #f9f9f9;
     color: rgb(35, 35, 35);
